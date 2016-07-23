@@ -1,2 +1,6 @@
 # hello-world
-Just another repository.
+
+
+Howdy Everyone!
+
+I am Danver, your new buddy for this semester.
